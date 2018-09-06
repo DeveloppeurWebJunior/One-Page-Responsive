@@ -1,0 +1,139 @@
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, a, img, strong,
+article, figure, figcaption, section{
+    
+    
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+
+
+
+body {
+      background: black;
+    width: 100%;
+   
+}
+
+
+
+
+h2{
+    text-align: center;
+    margin-top: 24px;
+    color: white;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+#page2 {
+    
+    width: 1280px;
+    height: auto;
+    margin-left: 30px;
+    display: flex;
+
+}
+
+
+
+
+section{
+ 
+   height: 800px;
+   margin-top: 60px;
+    
+} 
+
+
+
+
+
+figcaption {
+    color: white;
+    margin-top: 10px;
+     font-size: 36px;
+    margin-bottom: 52px;
+}
+
+
+
+
+
+
+#premier{
+    margin-left: 170px;
+}
+
+
+
+
+
+.meme {
+    
+    width: 435px;
+    height: auto;
+     margin: 10px;
+}
+
+
+
+
+
+.trois{
+    width: 180px;
+    height: auto;
+}
+
+
+
+
+.droite {
+   height: 267px;
+    margin-top: 150px;
+    
+}
+
+
+
+span {
+    color: #983b00;
+}
+
+
+
+
+img{
+   
+     width:100%;
+    display: block;
+}
+
+
+
+
+
+p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px; 
+    font-weight: lighter;
+}
+
+
+
+
+
+.par {
+    
+    margin-left: 3px;
+}
